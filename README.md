@@ -10,10 +10,6 @@ entry points used in the manuscript. Ablation variants, external baselines,
 downstream biological analyses, manuscript figures, datasets, and trained
 outputs are intentionally excluded.
 
-Some internal Python symbols retain the historical development name
-`SpaNichePair` so that parameter initialization and saved-run provenance remain
-compatible with the manuscript experiments. The method and public repository
-name are `spaNicheGraph`.
 
 ## Repository structure
 
