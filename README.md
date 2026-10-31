@@ -127,5 +127,4 @@ and `training.py`.
 
 ## License
 
-No open-source license has been assigned yet. Add the license selected by the
-authors before creating the public GitHub release.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
